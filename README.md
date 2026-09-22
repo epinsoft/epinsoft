@@ -11,8 +11,9 @@
 
 ---
 
-### 🚀 Öne çıkan proje
-**[Pazarova](https://github.com/epinsoft/pazarova-vitrin)** — Çok‑satıcılı oyun & epin **pazar yeri yazılımını (epin scripti)** ben geliştirdim: emanet (escrow), komisyon kademeleri, satıcı paneli, oyunlaştırma. `#FF5501`
+### 🚀 Öne çıkan projelerim
+- **[Pinova](https://github.com/epinsoft/pinova-vitrin)** — Tam otomatik **epin satış scripti / epin yazılımı**; anında teslimat, bakiye, bayilik, AI blog. `Mavi`
+- **[Pazarova](https://github.com/epinsoft/pazarova-vitrin)** — Çok‑satıcılı oyun & epin **pazar yeri (marketplace) yazılımı**; emanet (escrow), komisyon kademeleri, oyunlaştırma. `#FF5501`
 
 ### 🛠️ Uzmanlık
 - **Backend:** PHP (CodeIgniter / Laravel), MySQL/MariaDB, REST API, ödeme & webhook entegrasyonları
@@ -21,7 +22,7 @@
 - **Otomasyon:** içerik/sosyal medya otomasyonu, scraping, cron iş akışları
 
 ### 📌 Projeler
-Öne çıkan public çalışmam: **[pazarova‑vitrin](https://github.com/epinsoft/pazarova-vitrin)** — geliştirdiğim epin & pazar yeri yazılımının tanıtımı.
+Geliştirdiğim epin & pazar yeri yazılımlarının public tanıtımları: **[pinova‑vitrin](https://github.com/epinsoft/pinova-vitrin)** (epin satış scripti) · **[pazarova‑vitrin](https://github.com/epinsoft/pazarova-vitrin)** (pazar yeri scripti).
 
 ### 📫 İletişim
 Epin/pazar yeri yazılımı, iş birliği ve proje talepleri için:

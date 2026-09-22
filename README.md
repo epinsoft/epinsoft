@@ -24,4 +24,6 @@
 Öne çıkan public çalışmam: **[pazarova‑vitrin](https://github.com/epinsoft/pazarova-vitrin)** — geliştirdiğim epin & pazar yeri yazılımının tanıtımı.
 
 ### 📫 İletişim
-İş birliği ve proje talepleri için profildeki bağlantılardan ulaşabilirsiniz.
+Epin/pazar yeri yazılımı, iş birliği ve proje talepleri için:
+- ✉️ **E‑posta:** pazarlama@epinsoft.com.tr
+- 📞 **Telefon:** +90 850 255 18 01

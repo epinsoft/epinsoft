@@ -29,7 +29,7 @@
 <table>
 <tr>
 <td width="50%" align="center">
-  <a href="https://github.com/epinsoft/pinova-vitrin"><img src="https://raw.githubusercontent.com/epinsoft/pinova-vitrin/main/img/hero.png" alt="Pinova — Epin Scripti"></a>
+  <a href="https://github.com/epinsoft/pinova-vitrin"><img src="https://raw.githubusercontent.com/epinsoft/pinova-vitrin/main/img/hero.png?v=2" alt="Pinova — Epin Scripti"></a>
   <br><br>
   <b>🔵 Pinova</b> — Epin satış scripti / epin yazılımı
   <br><sub>Tam otomatik teslimat · bakiye · bayilik · AI blog</sub>
@@ -37,7 +37,7 @@
   <a href="https://pinova.epinsoft.com.tr">▶ Canlı Demo</a> &nbsp;·&nbsp; <a href="https://github.com/epinsoft/pinova-vitrin">Vitrin</a>
 </td>
 <td width="50%" align="center">
-  <a href="https://github.com/epinsoft/pazarova-vitrin"><img src="https://raw.githubusercontent.com/epinsoft/pazarova-vitrin/main/img/hero.png" alt="Pazarova — Pazar Yeri Yazılımı"></a>
+  <a href="https://github.com/epinsoft/pazarova-vitrin"><img src="https://raw.githubusercontent.com/epinsoft/pazarova-vitrin/main/img/hero.png?v=2" alt="Pazarova — Pazar Yeri Yazılımı"></a>
   <br><br>
   <b>🟠 Pazarova</b> — Çok-satıcılı pazar yeri yazılımı
   <br><sub>Emanet (escrow) · komisyon kademeleri · oyunlaştırma</sub>

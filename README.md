@@ -12,7 +12,7 @@
 ---
 
 ### 🚀 Öne çıkan proje
-**[Pazarova](https://github.com/superfuze/pazarova-vitrin)** — Çok‑satıcılı oyun & e‑pin **pazar yeri yazılımı**: emanet (escrow), komisyon kademeleri, satıcı paneli, oyunlaştırma. `#FF5501`
+**[Pazarova](https://github.com/epinsoft/pazarova-vitrin)** — Çok‑satıcılı oyun & e‑pin **pazar yeri yazılımı**: emanet (escrow), komisyon kademeleri, satıcı paneli, oyunlaştırma. `#FF5501`
 
 ### 🛠️ Uzmanlık
 - **Backend:** PHP (CodeIgniter / Laravel), MySQL/MariaDB, REST API, ödeme & webhook entegrasyonları
@@ -21,7 +21,7 @@
 - **Otomasyon:** içerik/sosyal medya otomasyonu, scraping, cron iş akışları
 
 ### 📌 Projeler
-Öne çıkan public çalışma: **[pazarova‑vitrin](https://github.com/superfuze/pazarova-vitrin)** — pazar yeri yazılımı tanıtımı.
+Öne çıkan public çalışma: **[pazarova‑vitrin](https://github.com/epinsoft/pazarova-vitrin)** — pazar yeri yazılımı tanıtımı.
 
 ### 📫 İletişim
 İş birliği ve proje talepleri için profildeki bağlantılardan ulaşabilirsiniz.

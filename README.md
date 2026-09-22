@@ -1,5 +1,5 @@
 <h1 align="center">Merhaba 👋 Ben Oğuzhan</h1>
-<p align="center">Full‑stack web geliştirici · Pazar yeri & SaaS yazılımları · Otomasyon</p>
+<p align="center">Full‑stack web geliştirici · <b>E‑pin scripti</b> & pazar yeri (marketplace) yazılımları · SaaS · Otomasyon</p>
 
 <p align="center">
   <img alt="php" src="https://img.shields.io/badge/PHP-777bb4?logo=php&logoColor=white">
@@ -17,7 +17,7 @@
 ### 🛠️ Uzmanlık
 - **Backend:** PHP (CodeIgniter / Laravel), MySQL/MariaDB, REST API, ödeme & webhook entegrasyonları
 - **Frontend:** duyarlı (responsive) arayüz, saf JS, WordPress/Elementor
-- **Ürün:** e‑ticaret, pazar yeri, SaaS panelleri, escrow & komisyon sistemleri
+- **Ürün:** e‑ticaret, **e‑pin scripti / e‑pin yazılımı**, çok‑satıcılı **pazar yeri (marketplace) scriptleri**, SaaS panelleri, escrow & komisyon sistemleri
 - **Otomasyon:** içerik/sosyal medya otomasyonu, scraping, cron iş akışları
 
 ### 📌 Projeler
